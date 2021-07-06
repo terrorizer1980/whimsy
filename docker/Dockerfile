@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:20.10
 
 # N.B. passenger --install_dir=/var/lib/gems/m.n.o must agree with ruby version
 
